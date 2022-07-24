@@ -10,7 +10,7 @@ class DataSource
 
     const USERNAME = 'miny';
 
-    const PASSWORD = 'Poundsty87%%';
+    const PASSWORD = '';
 
     const DATABASENAME = 'dynamic_graph';
 
