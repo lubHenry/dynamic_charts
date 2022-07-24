@@ -19,11 +19,11 @@ CREATE TABLE `tbl_marks` (
 --
 
 INSERT INTO `tbl_marks` (`student_id`, `student_name`, `marks`) VALUES
-(1, 'Matthew', 39),
-(2, 'Hannah', 46),
-(3, 'Merlin', 65),
-(4, 'Jelin', 90),
-(5, 'Hilda', 75);
+(1, 'Hulk', 40),
+(2, 'Iron Man', 76),
+(3, 'Strange', 56),
+(4, 'Wakanda', 99),
+(5, 'Henry', 98);
 
 --
 -- Indexes for dumped tables
